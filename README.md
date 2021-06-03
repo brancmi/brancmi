@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/76498494/120718417-9bf06800-c49f-11eb-897f-397d8a5ad138.png)
+![Snake animation](https://github.com/brancmi/brancmi/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
